@@ -26,10 +26,10 @@ Since the challenge is called "Obedient Cat", it's a massive hint to use the `ca
 ```bash
 cat flag
 ```
-*Output: `picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}` (Note: The exact alphanumeric string at the end varies for each user/instance, but this is the general format of the flag).*
+*Output: `picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}`*
 
 **Method 2: Using a Text Editor**
 If you are on Windows or prefer a graphical interface, you can simply open the `flag` file with Notepad, VS Code, or any other standard text editor. The flag will be written right there in plain text.
 
 ## Flag
-`picoCTF{...}` *(Submit the exact flag you see when you read the file)*
+`picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}`

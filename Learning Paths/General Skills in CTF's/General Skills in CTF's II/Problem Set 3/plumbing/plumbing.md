@@ -13,6 +13,8 @@ Sometimes you need to handle process data outside of a file. Can you find a way 
 ## Solution
 The challenge requires us to connect to a netcat server, which will spew out a massive amount of decoy text (thousands of lines). To find the flag, we just need to pipe the output into `grep` (or `Select-String` on Windows).
 
+*(Note: The exact URL and port number `fickle-tempest.picoctf.net 64379` will differ for your specific instance. Make sure to copy the one provided in your challenge description!)*
+
 **Linux / macOS:**
 Use the `nc` (netcat) command to connect to the server, and pipe (`|`) the output into `grep`:
 ```bash

@@ -37,7 +37,7 @@ Here are the steps to solve the challenge:
    ```bash
    ./warm -h
    ```
-   *Output: Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_...}*
+   *Output: Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}*
 
 ## Flag
-`picoCTF{...}` *(Run the binary with the `-h` flag to get your exact flag)*
+`picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}`

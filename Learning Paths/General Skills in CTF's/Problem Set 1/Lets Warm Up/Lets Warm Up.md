@@ -24,11 +24,19 @@ print(chr(0x70))
 
 *Output: p*
 
-**Method 2: Using the Command Line (Linux/Bash)**
-You can use `echo` with the `-e` flag to interpret escaped characters directly in your terminal:
+**Method 2: Using the Command Line**
 
+*For Linux/macOS:*
+You can use `echo` with the `-e` flag to interpret escaped characters directly in your terminal:
 ```bash
 echo -e "\x70"
+```
+*Output: p*
+
+*For Windows (PowerShell):*
+You can cast the hexadecimal value to a character directly in PowerShell:
+```powershell
+[char]0x70
 ```
 *Output: p*
 

@@ -24,10 +24,19 @@ print(bin(42))
 *Output: `0b101010`* 
 (The `0b` prefix simply indicates that it is a binary string, so the actual binary value is `101010`).
 
-**Method 2: Using the Command Line (Linux/Bash)**
+**Method 2: Using the Command Line**
+
+*For Linux/macOS:*
 You can use tools like `bc` (basic calculator) in your terminal:
 ```bash
 echo "obase=2; 42" | bc
+```
+*Output: `101010`*
+
+*For Windows (PowerShell):*
+You can convert to binary format directly:
+```powershell
+[Convert]::ToString(42, 2)
 ```
 *Output: `101010`*
 

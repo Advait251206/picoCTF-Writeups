@@ -35,10 +35,19 @@ The number `3D` can be broken down into:
 - The 1s place: `D (which is 13) * 1 = 13`
 - Total: `48 + 13 = 61`
 
-**Method 3: Using the Command Line (Linux/Bash)**
+**Method 3: Using the Command Line**
+
+*For Linux/macOS:*
 You can use `printf` or `echo` with arithmetic expansion in the terminal:
 ```bash
 echo $((16#3D))
+```
+*Output: 61*
+
+*For Windows (PowerShell):*
+PowerShell natively understands hex numbers using the `0x` prefix:
+```powershell
+0x3D
 ```
 *Output: 61*
 

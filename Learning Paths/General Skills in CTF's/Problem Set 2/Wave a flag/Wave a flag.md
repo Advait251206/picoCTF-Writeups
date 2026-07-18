@@ -19,6 +19,10 @@ When dealing with Linux executables that you download from the internet, you typ
 
 Here are the steps to solve the challenge:
 
+*Note: `warm` is a Linux executable binary. If you are on Windows, you will need to use Windows Subsystem for Linux (WSL) to run it, as Windows Command Prompt/PowerShell cannot execute Linux binaries directly.*
+
+**For Linux / macOS / Windows (WSL):**
+
 1. **Make the file executable:**
    Open your terminal, navigate to where you downloaded the file, and use the `chmod` command to add execute permissions:
    ```bash

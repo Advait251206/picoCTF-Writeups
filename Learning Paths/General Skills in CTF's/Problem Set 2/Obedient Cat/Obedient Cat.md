@@ -10,7 +10,7 @@
 ## Problem Description
 This file has a flag in plain sight (aka "in-the-clear").
 
-[Download flag file]
+[Download flag file](./flag)
 
 ## Solution
 The challenge provides us with a file named `flag` and hints that the flag is "in plain sight".

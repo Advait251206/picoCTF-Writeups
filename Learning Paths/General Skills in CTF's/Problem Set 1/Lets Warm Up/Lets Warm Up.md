@@ -1,6 +1,9 @@
 # picoCTF Writeup: Lets Warm Up
 
 **Author:** Advait Kawale  
+**Event:** picoCTF 2019  
+**Difficulty:** Easy  
+**Challenge Author:** Sanjay C/Danny Tunitis  
 **Learning Path:** General Skills in CTFs  
 **Problem Set:** 1
 

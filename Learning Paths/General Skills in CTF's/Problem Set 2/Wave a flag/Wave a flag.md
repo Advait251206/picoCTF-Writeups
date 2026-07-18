@@ -17,11 +17,9 @@ The challenge gives us a Linux binary executable file named `warm`. The prompt h
 
 When dealing with Linux executables that you download from the internet, you typically need to grant them "execute" permissions before you can run them. 
 
-Here are the steps to solve the challenge:
+Here are the steps to solve the challenge depending on your OS:
 
-*Note: `warm` is a Linux executable binary. If you are on Windows, you will need to use Windows Subsystem for Linux (WSL) to run it, as Windows Command Prompt/PowerShell cannot execute Linux binaries directly.*
-
-**For Linux / macOS / Windows (WSL):**
+**For Linux / macOS:**
 
 1. **Make the file executable:**
    Open your terminal, navigate to where you downloaded the file, and use the `chmod` command to add execute permissions:
@@ -42,6 +40,16 @@ Here are the steps to solve the challenge:
    ./warm -h
    ```
    *Output: Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}*
+
+**For Windows (PowerShell):**
+
+Since `warm` is a Linux binary, Windows cannot execute it directly. However, we can use **Static Analysis** to extract the flag without ever running the program!
+
+Open PowerShell and use the `strings` utility (if installed) or simply read the file and filter for the text `picoCTF`:
+```powershell
+strings warm | Select-String picoCTF
+```
+*Output: Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}*
 
 ## Flag
 `picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}`

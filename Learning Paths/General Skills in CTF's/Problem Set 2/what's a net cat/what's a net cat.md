@@ -10,6 +10,8 @@
 ## Problem Description
 Using netcat (nc) is going to be pretty important. Can you connect to `fickle-tempest.picoctf.net` at port `56247` to get the flag?
 
+*(Note: The exact host, port number, and flag are dynamically generated for each user when they launch the instance on the picoCTF website. The details below are specific to my instance, so make sure to use your own!)*
+
 ## Solution
 Netcat (often abbreviated to `nc`) is a computer networking utility for reading from and writing to network connections using TCP or UDP. It is incredibly useful for CTFs.
 

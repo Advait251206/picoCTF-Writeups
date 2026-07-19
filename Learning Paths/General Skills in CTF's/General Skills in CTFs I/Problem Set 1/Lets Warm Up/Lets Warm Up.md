@@ -46,4 +46,4 @@ If you look up an ASCII table or use a tool like CyberChef (Hex to Text), lookin
 Since the resulting character is `p`, we simply wrap it in the standard picoCTF flag format.
 
 ## Flag
-picoCTF{p}
+`picoCTF{p}`

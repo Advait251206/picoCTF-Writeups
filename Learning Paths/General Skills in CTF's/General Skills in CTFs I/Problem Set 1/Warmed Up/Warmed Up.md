@@ -54,4 +54,4 @@ PowerShell natively understands hex numbers using the `0x` prefix:
 We take the resulting decimal number and wrap it in the picoCTF flag format.
 
 ## Flag
-picoCTF{61}
+`picoCTF{61}`

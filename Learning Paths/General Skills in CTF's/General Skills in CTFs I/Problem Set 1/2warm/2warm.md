@@ -49,4 +49,4 @@ You can also use tools like CyberChef (Decimal to Binary) or simply calculate it
 Wrap the resulting binary string in the flag format.
 
 ## Flag
-picoCTF{101010}
+`picoCTF{101010}`

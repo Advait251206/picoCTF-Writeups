@@ -13,7 +13,7 @@ This service can provide you with a random number, but can it do anything else?
 Connect to the program with netcat:
 `$ nc saturn.picoctf.net 63584`
 
-The program's source code can be downloaded here.
+The program's source code can be downloaded [here](picker-I.py).
 
 > **Note:** The exact URL and port number (e.g., `saturn.picoctf.net` and `63584`) will be different for every instance of this challenge. Be sure to use the connection details provided when you launch your specific challenge instance.
 
@@ -71,4 +71,4 @@ print(flag)
 Running this decodes the hex back into our flag!
 
 ## Flag
-[`picoCTF{4_d14m0nd_1n_7h3_r0ugh_ce4b5d5b}`](picker-I.py)
+`picoCTF{4_d14m0nd_1n_7h3_r0ugh_ce4b5d5b}`

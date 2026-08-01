@@ -22,15 +22,76 @@ Inside each challenge's folder, you will typically find:
 - **Source Code & Binaries:** The vulnerable C code, compiled ELF binaries, or text files provided by the challenge to allow for local testing and debugging.
 - **Exploit Scripts:** Any Python (often utilizing `pwntools` or `socket`), Bash, or other scripts written to automate the exploitation process and grab the flag from the remote server.
 
-## 📚 Completed Learning Paths
+## 📚 Learning Paths
 
-I am actively working my way through the structured learning paths provided by picoCTF. Here are the paths I've completed so far:
+<details>
+  <summary><strong>General Skills in CTF's</strong></summary>
 
-- **General Skills in CTF's:** 
-  An introduction to the picoCTF platform, covering the basics of Linux command-line tools, file manipulation, grep searching, encoding/decoding, and general problem-solving necessary for any CTF player.
-  
-- **Low Level Binary Intro:** 
-  A deep dive into the world of compiled programs and assembly. This path covered static analysis with `objdump`, dynamic debugging with `gdb`, understanding the stack layout, identifying memory corruption vulnerabilities like `gets()` and `strcpy()`, and executing standard buffer overflows (like smashing local variables and `ret2win` attacks).
+  - **General Skills in CTF's II**
+    - [Problem Set 1](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%201)
+    - [Problem Set 2](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%202)
+    - [Problem Set 3](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%203)
+  - **General Skills in CTFs I**
+    - [Problem Set 1](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%201)
+    - [Problem Set 2](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%202)
+</details>
+
+<details>
+  <summary><strong>Low Level Binary Intro</strong></summary>
+
+  - **Binary Exploitation**
+    - [Binary Exploitation](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Binary%20Exploitation)
+    - [buffer overflow 0](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%200)
+    - [buffer overflow 0 solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%200%20solution)
+    - [buffer overflow 1](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%201)
+    - [buffer overflow 1 solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%201%20solution)
+    - [Local Target](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Local%20Target)
+    - [Local Target solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Local%20Target%20solution)
+    - [Picker IV](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Picker%20IV)
+    - [Picker IV solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Picker%20IV%20solution)
+  - **Interlude**
+    - [Interlude](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Interlude)
+    - [Picker II](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20II)
+    - [Picker II solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20II%20solution)
+    - [Picker III](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20III)
+    - [Picker III solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20III%20solution)
+  - **Intro to Assembly**
+    - [Assembly Arithmetic](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Assembly%20Arithmetic)
+    - [Assembly Branching](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Assembly%20Branching)
+    - [Assembly Pointers](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Assembly%20Pointers)
+    - [Bit-O-Asm-1](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-1)
+    - [Bit-O-Asm-2](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-2)
+    - [Bit-O-Asm-3](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-3)
+    - [Bit-O-Asm-4](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-4)
+    - [Intro to Assembly](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Intro%20to%20Assembly)
+  - **Intro to Debuggers**
+    - [ASCII FTW](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/ASCII%20FTW)
+    - [Breakpoints](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Breakpoints)
+    - [Calling functions](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Calling%20functions)
+    - [Disassembly Capstone](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Disassembly%20Capstone)
+    - [Disassembly Capstone solutions](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Disassembly%20Capstone%20solutions)
+    - [Examining memory](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Examining%20memory)
+    - [GDB](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB)
+    - [GDB baby step 1](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%201)
+    - [GDB baby step 2](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%202)
+    - [GDB baby step 3](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%203)
+    - [GDB baby step 4](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%204)
+    - [Static analysis of debugger0_b](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Static%20analysis%20of%20debugger0_b)
+    - [Static and Dynamic Analysis](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Static%20and%20Dynamic%20Analysis)
+  - **Outro**
+    - [Outro](Learning%20Paths/Low%20Level%20Binary%20Intro/Outro)
+  - **Warmup**
+    - [ASCII Numbers](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/ASCII%20Numbers)
+    - [Hexadecimal](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Hexadecimal)
+    - [Obedient Cat](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Obedient%20Cat)
+    - [Picker I](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Picker%20I)
+    - [Program Execution](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Program%20Execution)
+    - [Python](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Python)
+    - [Sanity check problems](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Sanity%20check%20problems)
+    - [The ASCII encoding](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/The%20ASCII%20encoding)
+    - [Warmed Up](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Warmed%20Up)
+</details>
+
 
 ## 🛠️ Tools & Technologies Used
 

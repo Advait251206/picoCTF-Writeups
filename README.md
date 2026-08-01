@@ -34,9 +34,43 @@ Inside each challenge's folder, you will typically find:
 
 <blockquote>
 
-- [Problem Set 1](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%201)
-- [Problem Set 2](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%202)
-- [Problem Set 3](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%203)
+<details>
+<summary><strong>Problem Set 1</strong></summary>
+
+<blockquote>
+
+- [Magikarp Ground Mission](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%201/Magikarp%20Ground%20Mission)
+- [Nice netcat](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%201/Nice%20netcat)
+- [Python Wrangling](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%201/Python%20Wrangling)
+- [Tab, Tab, Attack](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%201/Tab%2C%20Tab%2C%20Attack)
+
+</blockquote>
+</details>
+
+<details>
+<summary><strong>Problem Set 2</strong></summary>
+
+<blockquote>
+
+- [Big Zip](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%202/Big%20Zip)
+- [First Find](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%202/First%20Find)
+- [First Grep](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%202/First%20Grep)
+
+</blockquote>
+</details>
+
+<details>
+<summary><strong>Problem Set 3</strong></summary>
+
+<blockquote>
+
+- [plumbing](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%203/plumbing)
+- [Static ain't always noise](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%203/Static%20ain't%20always%20noise)
+- [strings it](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%203/strings%20it)
+
+</blockquote>
+</details>
+
 
 </blockquote>
 </details>
@@ -46,11 +80,35 @@ Inside each challenge's folder, you will typically find:
 
 <blockquote>
 
-- [Problem Set 1](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%201)
-- [Problem Set 2](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%202)
+<details>
+<summary><strong>Problem Set 1</strong></summary>
+
+<blockquote>
+
+- [2warm](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%201/2warm)
+- [Lets Warm Up](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%201/Lets%20Warm%20Up)
+- [Warmed Up](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%201/Warmed%20Up)
 
 </blockquote>
 </details>
+
+<details>
+<summary><strong>Problem Set 2</strong></summary>
+
+<blockquote>
+
+- [convertme.py](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%202/convertme.py)
+- [Obedient Cat](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%202/Obedient%20Cat)
+- [Wave a flag](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%202/Wave%20a%20flag)
+- [what's a net cat](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%202/what's%20a%20net%20cat)
+
+</blockquote>
+</details>
+
+
+</blockquote>
+</details>
+
 
 </blockquote>
 </details>
@@ -136,7 +194,7 @@ Inside each challenge's folder, you will typically find:
 
 <blockquote>
 
-- [Outro](Learning%20Paths/Low%20Level%20Binary%20Intro/Outro)
+- [Outro](Learning%20Paths/Low%20Level%20Binary%20Intro/Outro/Outro)
 
 </blockquote>
 </details>

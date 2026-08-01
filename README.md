@@ -25,17 +25,17 @@ Inside each challenge's folder, you will typically find:
 ## 📚 Learning Paths
 
 <details>
-<summary><strong>General Skills in CTF's</strong></summary>
+<summary><strong>General Skills in CTF's</strong> <a href="Learning%20Paths/General%20Skills%20in%20CTF's">🔗</a></summary>
 
 <blockquote>
 
 <details>
-<summary><strong>General Skills in CTF's II</strong></summary>
+<summary><strong>General Skills in CTF's II</strong> <a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II">🔗</a></summary>
 
 <blockquote>
 
 <details>
-<summary><strong>Problem Set 1</strong></summary>
+<summary><strong>Problem Set 1</strong> <a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%201">🔗</a></summary>
 
 <blockquote>
 
@@ -48,7 +48,7 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>Problem Set 2</strong></summary>
+<summary><strong>Problem Set 2</strong> <a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%202">🔗</a></summary>
 
 <blockquote>
 
@@ -60,7 +60,7 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>Problem Set 3</strong></summary>
+<summary><strong>Problem Set 3</strong> <a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%203">🔗</a></summary>
 
 <blockquote>
 
@@ -76,12 +76,12 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>General Skills in CTFs I</strong></summary>
+<summary><strong>General Skills in CTFs I</strong> <a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I">🔗</a></summary>
 
 <blockquote>
 
 <details>
-<summary><strong>Problem Set 1</strong></summary>
+<summary><strong>Problem Set 1</strong> <a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%201">🔗</a></summary>
 
 <blockquote>
 
@@ -93,7 +93,7 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>Problem Set 2</strong></summary>
+<summary><strong>Problem Set 2</strong> <a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%202">🔗</a></summary>
 
 <blockquote>
 
@@ -114,12 +114,12 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>Low Level Binary Intro</strong></summary>
+<summary><strong>Low Level Binary Intro</strong> <a href="Learning%20Paths/Low%20Level%20Binary%20Intro">🔗</a></summary>
 
 <blockquote>
 
 <details>
-<summary><strong>Binary Exploitation</strong></summary>
+<summary><strong>Binary Exploitation</strong> <a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation">🔗</a></summary>
 
 <blockquote>
 
@@ -137,7 +137,7 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>Interlude</strong></summary>
+<summary><strong>Interlude</strong> <a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude">🔗</a></summary>
 
 <blockquote>
 
@@ -151,7 +151,7 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>Intro to Assembly</strong></summary>
+<summary><strong>Intro to Assembly</strong> <a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly">🔗</a></summary>
 
 <blockquote>
 
@@ -168,7 +168,7 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>Intro to Debuggers</strong></summary>
+<summary><strong>Intro to Debuggers</strong> <a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers">🔗</a></summary>
 
 <blockquote>
 
@@ -190,7 +190,7 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>Outro</strong></summary>
+<summary><strong>Outro</strong> <a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Outro">🔗</a></summary>
 
 <blockquote>
 
@@ -200,7 +200,7 @@ Inside each challenge's folder, you will typically find:
 </details>
 
 <details>
-<summary><strong>Warmup</strong></summary>
+<summary><strong>Warmup</strong> <a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup">🔗</a></summary>
 
 <blockquote>
 

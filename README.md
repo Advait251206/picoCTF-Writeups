@@ -27,69 +27,113 @@ Inside each challenge's folder, you will typically find:
 <details>
   <summary><strong>General Skills in CTF's</strong></summary>
 
-  - **General Skills in CTF's II**
-    - [Problem Set 1](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%201)
-    - [Problem Set 2](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%202)
-    - [Problem Set 3](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%203)
-  - **General Skills in CTFs I**
-    - [Problem Set 1](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%201)
-    - [Problem Set 2](Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%202)
+  <div style="padding-left: 15px;">
+    <details>
+      <summary><strong>General Skills in CTF's II</strong></summary>
+
+      <ul>
+        <li><a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%201">Problem Set 1</a></li>
+        <li><a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%202">Problem Set 2</a></li>
+        <li><a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTF's%20II/Problem%20Set%203">Problem Set 3</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary><strong>General Skills in CTFs I</strong></summary>
+
+      <ul>
+        <li><a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%201">Problem Set 1</a></li>
+        <li><a href="Learning%20Paths/General%20Skills%20in%20CTF's/General%20Skills%20in%20CTFs%20I/Problem%20Set%202">Problem Set 2</a></li>
+      </ul>
+    </details>
+  </div>
 </details>
 
 <details>
   <summary><strong>Low Level Binary Intro</strong></summary>
 
-  - **Binary Exploitation**
-    - [Binary Exploitation](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Binary%20Exploitation)
-    - [buffer overflow 0](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%200)
-    - [buffer overflow 0 solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%200%20solution)
-    - [buffer overflow 1](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%201)
-    - [buffer overflow 1 solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%201%20solution)
-    - [Local Target](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Local%20Target)
-    - [Local Target solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Local%20Target%20solution)
-    - [Picker IV](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Picker%20IV)
-    - [Picker IV solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Picker%20IV%20solution)
-  - **Interlude**
-    - [Interlude](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Interlude)
-    - [Picker II](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20II)
-    - [Picker II solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20II%20solution)
-    - [Picker III](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20III)
-    - [Picker III solution](Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20III%20solution)
-  - **Intro to Assembly**
-    - [Assembly Arithmetic](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Assembly%20Arithmetic)
-    - [Assembly Branching](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Assembly%20Branching)
-    - [Assembly Pointers](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Assembly%20Pointers)
-    - [Bit-O-Asm-1](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-1)
-    - [Bit-O-Asm-2](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-2)
-    - [Bit-O-Asm-3](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-3)
-    - [Bit-O-Asm-4](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-4)
-    - [Intro to Assembly](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Intro%20to%20Assembly)
-  - **Intro to Debuggers**
-    - [ASCII FTW](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/ASCII%20FTW)
-    - [Breakpoints](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Breakpoints)
-    - [Calling functions](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Calling%20functions)
-    - [Disassembly Capstone](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Disassembly%20Capstone)
-    - [Disassembly Capstone solutions](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Disassembly%20Capstone%20solutions)
-    - [Examining memory](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Examining%20memory)
-    - [GDB](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB)
-    - [GDB baby step 1](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%201)
-    - [GDB baby step 2](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%202)
-    - [GDB baby step 3](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%203)
-    - [GDB baby step 4](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%204)
-    - [Static analysis of debugger0_b](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Static%20analysis%20of%20debugger0_b)
-    - [Static and Dynamic Analysis](Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Static%20and%20Dynamic%20Analysis)
-  - **Outro**
-    - [Outro](Learning%20Paths/Low%20Level%20Binary%20Intro/Outro)
-  - **Warmup**
-    - [ASCII Numbers](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/ASCII%20Numbers)
-    - [Hexadecimal](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Hexadecimal)
-    - [Obedient Cat](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Obedient%20Cat)
-    - [Picker I](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Picker%20I)
-    - [Program Execution](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Program%20Execution)
-    - [Python](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Python)
-    - [Sanity check problems](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Sanity%20check%20problems)
-    - [The ASCII encoding](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/The%20ASCII%20encoding)
-    - [Warmed Up](Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Warmed%20Up)
+  <div style="padding-left: 15px;">
+    <details>
+      <summary><strong>Binary Exploitation</strong></summary>
+
+      <ul>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Binary%20Exploitation">Binary Exploitation</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%200">buffer overflow 0</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%200%20solution">buffer overflow 0 solution</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%201">buffer overflow 1</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/buffer%20overflow%201%20solution">buffer overflow 1 solution</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Local%20Target">Local Target</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Local%20Target%20solution">Local Target solution</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Picker%20IV">Picker IV</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Binary%20Exploitation/Picker%20IV%20solution">Picker IV solution</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary><strong>Interlude</strong></summary>
+
+      <ul>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Interlude">Interlude</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20II">Picker II</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20II%20solution">Picker II solution</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20III">Picker III</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Interlude/Picker%20III%20solution">Picker III solution</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary><strong>Intro to Assembly</strong></summary>
+
+      <ul>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Assembly%20Arithmetic">Assembly Arithmetic</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Assembly%20Branching">Assembly Branching</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Assembly%20Pointers">Assembly Pointers</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-1">Bit-O-Asm-1</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-2">Bit-O-Asm-2</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-3">Bit-O-Asm-3</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Bit-O-Asm-4">Bit-O-Asm-4</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Assembly/Intro%20to%20Assembly">Intro to Assembly</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary><strong>Intro to Debuggers</strong></summary>
+
+      <ul>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/ASCII%20FTW">ASCII FTW</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Breakpoints">Breakpoints</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Calling%20functions">Calling functions</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Disassembly%20Capstone">Disassembly Capstone</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Disassembly%20Capstone%20solutions">Disassembly Capstone solutions</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Examining%20memory">Examining memory</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB">GDB</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%201">GDB baby step 1</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%202">GDB baby step 2</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%203">GDB baby step 3</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/GDB%20baby%20step%204">GDB baby step 4</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Static%20analysis%20of%20debugger0_b">Static analysis of debugger0_b</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Intro%20to%20Debuggers/Static%20and%20Dynamic%20Analysis">Static and Dynamic Analysis</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary><strong>Outro</strong></summary>
+
+      <ul>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Outro">Outro</a></li>
+      </ul>
+    </details>
+    <details>
+      <summary><strong>Warmup</strong></summary>
+
+      <ul>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/ASCII%20Numbers">ASCII Numbers</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Hexadecimal">Hexadecimal</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Obedient%20Cat">Obedient Cat</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Picker%20I">Picker I</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Program%20Execution">Program Execution</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Python">Python</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Sanity%20check%20problems">Sanity check problems</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/The%20ASCII%20encoding">The ASCII encoding</a></li>
+        <li><a href="Learning%20Paths/Low%20Level%20Binary%20Intro/Warmup/Warmed%20Up">Warmed Up</a></li>
+      </ul>
+    </details>
+  </div>
 </details>
 
 

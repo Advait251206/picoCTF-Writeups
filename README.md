@@ -3,7 +3,7 @@
 # 🚩 picoCTF Writeups & Walkthroughs
 
 [![Repo Stars](https://img.shields.io/github/stars/Advait251206/picoCTF-Writeups?style=for-the-badge&color=ffd700)](https://github.com/Advait251206/picoCTF-Writeups/stargazers)
-[![Progress](https://img.shields.io/badge/Solved-13%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
+[![Progress](https://img.shields.io/badge/Solved-14%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
 [![Author: Advait Kawale](https://img.shields.io/badge/Author-Advait%20Kawale-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advait251206)
 
@@ -65,6 +65,7 @@ Welcome to my personal archive of **picoCTF** walkthroughs! This repository docu
 | :-: | :--- | :---: | :---: | :--- | :---: | :-: |
 | **01** | **[First Grep](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%202/First%20Grep/First%20Grep.md)** | General Skills | `Easy` | picoCTF 2019 | `academy{grep_is_good_to_find_things_d00Ca181}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%202/First%20Grep/First%20Grep.md) |
 | **02** | **[First Find](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%202/First%20Find/First%20Find.md)** | General Skills | `Easy` | picoCTF | `academy{f1nd_15_f457_ab443fd1}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%202/First%20Find/First%20Find.md) |
+| **03** | **[Big Zip](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%202/Big%20Zip/Big%20Zip.md)** | General Skills | `Easy` | picoCTF | `academy{gr3p_15_m4g1c_ef8790dc}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%202/Big%20Zip/Big%20Zip.md) |
 
 ---
 
@@ -115,6 +116,9 @@ picoCTF-Writeups/
             └── 📁 First Find/
                 ├── 📦 files.zip           # Challenge archive
                 └── 📝 First Find.md       # Writeup for First Find
+            └── 📁 Big Zip/
+                ├── 📦 big-zip-files.zip   # Challenge archive
+                └── 📝 Big Zip.md          # Writeup for Big Zip
 ```
 
 ---

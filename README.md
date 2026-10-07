@@ -98,7 +98,6 @@ picoCTF-Writeups/
             │   ├── 🔒 flag.txt.en         # Encrypted ciphertext
             │   └── 📝 Python Wrangling.md # Writeup for Python Wrangling
             └── 📁 Magikarp Ground Mission/
-                ├── 🐍 solve.py            # Automated SSH solver script
                 └── 📝 Magikarp Ground Mission.md # Writeup for Magikarp Ground Mission
 ```
 

@@ -9,7 +9,6 @@
 - **Event:** picoCTF 2021
 - **Description:** Do you know how to move between directories and read files in the shell? Start the container, ssh to it, and then ls once connected to begin. Login via ssh as ctf-player with the password, f6904eaa on the host chatelaine.cylabacademy.net and port 31607.
 - **Flag Format:** `academy{...}`
-- **Repository Automation Script:** [`./solve.py`](./solve.py)
 - **Date and Time of Completion:** 2026-10-07 10:08:00+05:30
 
 > [!NOTE]

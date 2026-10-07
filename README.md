@@ -3,7 +3,7 @@
 # 🚩 picoCTF Writeups & Walkthroughs
 
 [![Repo Stars](https://img.shields.io/github/stars/Advait251206/picoCTF-Writeups?style=for-the-badge&color=ffd700)](https://github.com/Advait251206/picoCTF-Writeups/stargazers)
-[![Progress](https://img.shields.io/badge/Solved-15%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
+[![Progress](https://img.shields.io/badge/Solved-16%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
 [![Author: Advait Kawale](https://img.shields.io/badge/Author-Advait%20Kawale-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advait251206)
 
@@ -72,6 +72,7 @@ Welcome to my personal archive of **picoCTF** walkthroughs! This repository docu
 | # | Challenge | Category | Difficulty | Event | Solved Flag | Writeup |
 | :-: | :--- | :---: | :---: | :--- | :---: | :-: |
 | **01** | **[Static ain't always noise](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%203/Static%20ain%27t%20always%20noise/Static%20ain%27t%20always%20noise.md)** | General Skills | `Easy` | picoCTF 2021 | `academy{d15a5m_t34s3r_fac3431a}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%203/Static%20ain%27t%20always%20noise/Static%20ain%27t%20always%20noise.md) |
+| **02** | **[strings it](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%203/strings%20it/strings%20it.md)** | General Skills | `Easy` | picoCTF 2019 | `academy{5tRIng5_1T_d47eAaCB}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%203/strings%20it/strings%20it.md) |
 
 ---
 
@@ -130,6 +131,9 @@ picoCTF-Writeups/
                 ├── 📄 static              # Challenge binary
                 ├── 📜 ltdis.sh            # Disassembly script
                 └── 📝 Static ain't always noise.md # Writeup
+            └── 📁 strings it/
+                ├── 📄 strings             # Challenge binary
+                └── 📝 strings it.md       # Writeup for strings it
 ```
 
 ---

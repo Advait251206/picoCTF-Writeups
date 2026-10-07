@@ -3,7 +3,7 @@
 # 🚩 picoCTF Writeups & Walkthroughs
 
 [![Repo Stars](https://img.shields.io/github/stars/Advait251206/picoCTF-Writeups?style=for-the-badge&color=ffd700)](https://github.com/Advait251206/picoCTF-Writeups/stargazers)
-[![Progress](https://img.shields.io/badge/Solved-10%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
+[![Progress](https://img.shields.io/badge/Solved-11%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
 [![Author: Advait Kawale](https://img.shields.io/badge/Author-Advait%20Kawale-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advait251206)
 
@@ -55,6 +55,7 @@ Welcome to my personal archive of **picoCTF** walkthroughs! This repository docu
 | **01** | **[Nice netcat...](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Nice%20netcat/Nice%20netcat...md)** | General Skills | `Easy` | picoCTF 2021 | `academy{g00d_k1tty!_n1c3_k1tty!_35e0c}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Nice%20netcat/Nice%20netcat...md) |
 | **02** | **[Tab, Tab, Attack](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Tab,%20Tab,%20Attack/Tab,%20Tab,%20Attack.md)** | General Skills | `Easy` | picoCTF 2021 | `academy{l3v3l_up!_t4k3_4_r35t!_9d928112}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Tab,%20Tab,%20Attack/Tab,%20Tab,%20Attack.md) |
 | **03** | **[Python Wrangling](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Python%20Wrangling/Python%20Wrangling.md)** | General Skills | `Medium` | picoCTF 2021 | `academy{4p0110_1n_7h3_h0us3_d6af8f37}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Python%20Wrangling/Python%20Wrangling.md) |
+| **04** | **[Magikarp Ground Mission](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Magikarp%20Ground%20Mission/Magikarp%20Ground%20Mission.md)** | General Skills | `Easy` | picoCTF 2021 | `academy{xxsh_0ut_0f_//4t3r_47c47679}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Magikarp%20Ground%20Mission/Magikarp%20Ground%20Mission.md) |
 
 ---
 
@@ -91,11 +92,14 @@ picoCTF-Writeups/
             ├── 📁 Tab, Tab, Attack/
             │   ├── 📦 Addadshashanammu.zip # Challenge archive
             │   └── 📝 Tab, Tab, Attack.md # Writeup for Tab, Tab, Attack
-            └── 📁 Python Wrangling/
-                ├── 🐍 ende.py             # Challenge Python script
-                ├── 🔑 password.txt        # Decryption password
-                ├── 🔒 flag.txt.en         # Encrypted ciphertext
-                └── 📝 Python Wrangling.md # Writeup for Python Wrangling
+            ├── 📁 Python Wrangling/
+            │   ├── 🐍 ende.py             # Challenge Python script
+            │   ├── 🔑 password.txt        # Decryption password
+            │   ├── 🔒 flag.txt.en         # Encrypted ciphertext
+            │   └── 📝 Python Wrangling.md # Writeup for Python Wrangling
+            └── 📁 Magikarp Ground Mission/
+                ├── 🐍 solve.py            # Automated SSH solver script
+                └── 📝 Magikarp Ground Mission.md # Writeup for Magikarp Ground Mission
 ```
 
 ---

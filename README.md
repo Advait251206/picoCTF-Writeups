@@ -3,7 +3,7 @@
 # 🚩 picoCTF Writeups & Walkthroughs
 
 [![Repo Stars](https://img.shields.io/github/stars/Advait251206/picoCTF-Writeups?style=for-the-badge&color=ffd700)](https://github.com/Advait251206/picoCTF-Writeups/stargazers)
-[![Progress](https://img.shields.io/badge/Solved-7%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
+[![Progress](https://img.shields.io/badge/Solved-8%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
 [![Author: Advait Kawale](https://img.shields.io/badge/Author-Advait%20Kawale-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advait251206)
 
@@ -48,32 +48,44 @@ Welcome to my personal archive of **picoCTF** walkthroughs! This repository docu
 
 ---
 
+### 🧩 General Skills in CTF's ➔ General Skills II ➔ Problem Set 1
+
+| # | Challenge | Category | Difficulty | Event | Solved Flag | Writeup |
+| :-: | :--- | :---: | :---: | :--- | :---: | :-: |
+| **01** | **[Nice netcat...](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Nice%20netcat/Nice%20netcat...md)** | General Skills | `Easy` | picoCTF 2021 | `academy{g00d_k1tty!_n1c3_k1tty!_35e0c}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20II/Problem%20Set%201/Nice%20netcat/Nice%20netcat...md) |
+
+---
+
 ## 📁 Repository Structure
 
 ```text
 picoCTF-Writeups/
 ├── 📄 README.md                           # Master repository dashboard
 └── 📁 General Skills in CTF's/
-    └── 📁 General Skills in CTF's I/
-        ├── 📁 Problem Set 1/
-        │   ├── 📁 Lets Warm Up/
-        │   │   └── 📝 Lets Warm Up.md     # Writeup for Lets Warm Up
-        │   ├── 📁 2warm/
-        │   │   └── 📝 2warm.md            # Writeup for 2warm
-        │   └── 📁 Warmed Up/
-        │       └── 📝 Warmed Up.md        # Writeup for Warmed Up
-        └── 📁 Problem Set 2/
-            ├── 📁 Obedient Cat/
-            │   ├── 📄 flag                # Challenge file
-            │   └── 📝 Obedient Cat.md     # Writeup for Obedient Cat
-            ├── 📁 Wave a flag/
-            │   ├── ⚙️ warm                # Challenge binary
-            │   └── 📝 Wave a flag.md      # Writeup for Wave a flag
-            ├── 📁 convertme.py/
-            │   ├── 🐍 convertme.py        # Challenge script
-            │   └── 📝 convertme.py.md     # Writeup for convertme.py
-            └── 📁 what's a net cat/
-                └── 📝 what's a net cat.md # Writeup for what's a net cat?
+    ├── 📁 General Skills in CTF's I/
+    │   ├── 📁 Problem Set 1/
+    │   │   ├── 📁 Lets Warm Up/
+    │   │   │   └── 📝 Lets Warm Up.md     # Writeup for Lets Warm Up
+    │   │   ├── 📁 2warm/
+    │   │   │   └── 📝 2warm.md            # Writeup for 2warm
+    │   │   └── 📁 Warmed Up/
+    │   │       └── 📝 Warmed Up.md        # Writeup for Warmed Up
+    │   └── 📁 Problem Set 2/
+    │       ├── 📁 Obedient Cat/
+    │       │   ├── 📄 flag                # Challenge file
+    │       │   └── 📝 Obedient Cat.md     # Writeup for Obedient Cat
+    │       ├── 📁 Wave a flag/
+    │       │   ├── ⚙️ warm                # Challenge binary
+    │       │   └── 📝 Wave a flag.md      # Writeup for Wave a flag
+    │       ├── 📁 convertme.py/
+    │       │   ├── 🐍 convertme.py        # Challenge script
+    │       │   └── 📝 convertme.py.md     # Writeup for convertme.py
+    │       └── 📁 what's a net cat/
+    │           └── 📝 what's a net cat.md # Writeup for what's a net cat?
+    └── 📁 General Skills in CTF's II/
+        └── 📁 Problem Set 1/
+            └── 📁 Nice netcat/
+                └── 📝 Nice netcat...md    # Writeup for Nice netcat...
 ```
 
 ---

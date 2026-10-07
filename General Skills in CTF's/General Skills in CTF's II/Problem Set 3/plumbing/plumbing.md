@@ -11,6 +11,9 @@
 - **Flag Format:** `academy{...}`
 - **Date and Time of Completion:** 2026-10-07 23:35:00+05:30
 
+> [!NOTE]
+> **Dynamic Instance Notice:** The hostname (`xebec.cylabacademy.net`) and port (`21496`) shown here were dynamically provisioned for this CTF instance. When replicating this challenge on picoCTF, replace these values with your active instance details.
+
 ---
 
 ## 2. Initial Triage & Problem Analysis

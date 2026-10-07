@@ -7,7 +7,7 @@
 - **Difficulty:** Easy
 - **Author:** syreal
 - **Event:** picoCTF 2021
-- **Description:** This file has a flag in plain sight (aka "in-the-clear"). [flag](https://challenge-files.cylabacademy.net/library/2d0652cbff224ebab0bb4f0692ff429799763e67b4a0f0650001fe4c4a841c76/flag)
+- **Description:** This file has a flag in plain sight (aka "in-the-clear"). [flag](./flag)
 - **Flag Format:** `academy{...}`
 - **Repository File Path:** [`./flag`](./flag) (`General Skills in CTF's/General Skills in CTF's I/Problem Set 2/Obedient Cat/flag`)
 - **Date and Time of Completion:** 2026-10-07 09:37:00+05:30

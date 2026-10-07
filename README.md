@@ -3,7 +3,7 @@
 # 🚩 picoCTF Writeups & Walkthroughs
 
 [![Repo Stars](https://img.shields.io/github/stars/Advait251206/picoCTF-Writeups?style=for-the-badge&color=ffd700)](https://github.com/Advait251206/picoCTF-Writeups/stargazers)
-[![Progress](https://img.shields.io/badge/Solved-4%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
+[![Progress](https://img.shields.io/badge/Solved-5%20Challenges-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Advait251206/picoCTF-Writeups)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
 [![Author: Advait Kawale](https://img.shields.io/badge/Author-Advait%20Kawale-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advait251206)
 
@@ -42,6 +42,7 @@ Welcome to my personal archive of **picoCTF** walkthroughs! This repository docu
 | # | Challenge | Category | Difficulty | Event | Solved Flag | Writeup |
 | :-: | :--- | :---: | :---: | :---: | :---: | :-: |
 | **01** | **[Obedient Cat](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20I/Problem%20Set%202/Obedient%20Cat/Obedient%20Cat.md)** | General Skills | `Easy` | picoCTF 2021 | `academy{s4n1ty_v3r1f13d_61ddac22}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20I/Problem%20Set%202/Obedient%20Cat/Obedient%20Cat.md) |
+| **02** | **[Wave a flag](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20I/Problem%20Set%202/Wave%20a%20flag/Wave%20a%20flag.md)** | General Skills | `Easy` | picoCTF 2021 | `academy{b1scu1ts_4nd_gr4vy_57d8c79}` | [📖 Read Writeup](./General%20Skills%20in%20CTF%27s/General%20Skills%20in%20CTF%27s%20I/Problem%20Set%202/Wave%20a%20flag/Wave%20a%20flag.md) |
 
 ---
 
@@ -60,9 +61,12 @@ picoCTF-Writeups/
         │   └── 📁 Warmed Up/
         │       └── 📝 Warmed Up.md        # Writeup for Warmed Up
         └── 📁 Problem Set 2/
-            └── 📁 Obedient Cat/
-                ├── 📄 flag                # Challenge file
-                └── 📝 Obedient Cat.md     # Writeup for Obedient Cat
+            ├── 📁 Obedient Cat/
+            │   ├── 📄 flag                # Challenge file
+            │   └── 📝 Obedient Cat.md     # Writeup for Obedient Cat
+            └── 📁 Wave a flag/
+                ├── ⚙️ warm                # Challenge binary
+                └── 📝 Wave a flag.md      # Writeup for Wave a flag
 ```
 
 ---
